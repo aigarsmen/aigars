@@ -2,4 +2,4 @@
 
 -kā lietot GitHub
 -kā lietot GitHub Desktop
--ka lietot VS Code ar GitHub
+-kā lietot VS Code ar GitHub
